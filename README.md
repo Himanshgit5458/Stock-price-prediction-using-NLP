@@ -1,6 +1,10 @@
 # Predicting Stock Prices using LSTM and News Sentiment Analysis
 
 
+![image](https://user-images.githubusercontent.com/96855684/236266774-0770bbf3-53d6-4d56-a928-f30bbc9c19ba.png)
+
+
+
 **Description:**
 
 This project aims to predict the stock prices of a particular company using historical stock data and news sentiment analysis. The idea is to combine both technical and fundamental analysis in predicting the stock prices, since stock prices can be influenced by both factors.
